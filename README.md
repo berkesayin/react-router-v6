@@ -212,4 +212,4 @@ const NoPage = () => {
 export default NoPage;
 ```
 
-![gif](./images/router.gif)
+![gif](./images/routing.gif)
