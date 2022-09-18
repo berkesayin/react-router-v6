@@ -37,3 +37,6 @@ Step 4: index.js dosyasında react-router-dom'u ve componentleri (sayfaları) im
 
 
 -----------------------------------------------------------------------------------------------------
+
+
+Step 5: pages altındaki componentler için fonksiyonları yazalım
